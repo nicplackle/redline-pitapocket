@@ -1,6 +1,6 @@
 # redline-pitapocket
 
-Go to the [Pita Project Website](https://nicplackle.github.io/redline-pitapocket)
+Go to the [Pita Pocket Website](https://nicplackle.github.io/redline-pitapocket)
 
 This is a responsive one page website for restaurant Pita Pocket in Antwerp
 
@@ -17,6 +17,7 @@ The one page website consits of different sections:
 * Intro
         Built as a grid with 12 columns and divided in 3 fractions spanning 4 columns each.
 * Footer
+        Included is a Facebook button which links to the FB page of **Pita Pocket**
 
 ## Built With
 
