@@ -202,6 +202,7 @@
 		margin: 0 auto;
 		max-width: 100%;
 		width: 70em;
+		
 
 		@include breakpoint('<=xlarge') {
 			width: 70em;
@@ -470,6 +471,8 @@
 		}
 	}
 
+
+
 /* Image */
 
 	.image {
@@ -504,6 +507,19 @@
 	}
 
 /* List */
+	ul.menu2 {
+		list-style: none;
+		padding-left: 0;
+
+		li {
+			display: inline-block;
+			margin-left: 1em;
+			padding-left: 0;
+
+			&:first-child {
+				margin-left: 0;
+			}
+	}
 
 	ul {
 		list-style: disc;
@@ -711,15 +727,6 @@
 					&:hover {
 						background: #4c6aa8;
 					}
-				/*deliveroo*/
-				&.fa-truck {
-					background: #3c5a98;
-					float: center;
-					&:hover {
-					background: #4c6aa8;
-						}		
-				
-					
 				}
 
 
@@ -926,12 +933,15 @@
 		position: relative;
 		padding: 8em 0;
 		margin: 4em 0 0 0;
+		
 
 		header {
 			background-color: rgba(34, 30, 31, 0.98);
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
+			
+			
 
 			h2 {
 				color: #fff;
