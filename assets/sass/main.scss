@@ -55,6 +55,7 @@
 
 	ol, ul {
 		list-style: none;
+		
 	}
 
 	blockquote,	q {
@@ -507,9 +508,10 @@
 	}
 
 /* List */
-	ul.menu2 {
+	ul {
 		list-style: none;
 		padding-left: 0;
+		list-style-type: none;
 
 		li {
 			display: inline-block;
@@ -940,8 +942,7 @@
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
-			
-			
+					
 
 			h2 {
 				color: #fff;
@@ -1641,6 +1642,7 @@
 					padding: 1.5em 1em 1.5em 1em;
 					display: block;
 					border-radius: 0;
+					opacity: 0.8;
 
 					h2 {
 						font-size: 1.5em;
@@ -1665,5 +1667,5 @@
 			#footer {
 				padding: 40px 0 20px 0;
 			}
-
 	}
+}	
