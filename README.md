@@ -9,9 +9,9 @@ This is a responsive one page website for restaurant Pita Pocket in Antwerp
 
 The one page website consits of different sections:
 * Header
-** Logo
-** Navbar
-** Banner
+..* Logo
+..* Navbar
+..* Banner
 * Intro
 * Footer
 ```python
