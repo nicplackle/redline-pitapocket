@@ -2,7 +2,7 @@
 
 Go to the [Pita Pocket Website](https://nicplackle.github.io/redline-pitapocket)
 
-This is a responsive one page website for restaurant Pita Pocket in Antwerp
+This is a responsive one page website I created for restaurant Pita Pocket in Antwerp
 
 ## Usage
 
