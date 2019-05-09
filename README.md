@@ -12,7 +12,7 @@ The one page website consits of different sections:
     * Navbar
          * Home (button - goes to index page. when other pages will be added to the site)
          * Menu (button - goes to section *menu* on the homepage) 
-         * Contact (button - goes to section *contact* on the homepage)
+         * Contact (button - goes to section *contact* on the homepage. includes a link to their deliveroo page)
     * Banner
 * Intro
         Built as a grid with 12 columns and divided in 3 fractions spanning 4 columns each.
