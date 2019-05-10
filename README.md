@@ -14,9 +14,9 @@ The one page website consits of different sections:
          * Menu (button - goes to section *menu* on the homepage) 
          * Contact (button - goes to section *contact* on the homepage. includes a link to their deliveroo page)
     * Banner
-* Intro
+* Intro: 
         Built as a grid with 12 columns and divided in 3 fractions spanning 4 columns each.
-* Footer
+* Footer: 
         Included is a Facebook button which links to the FB page of **Pita Pocket**
 
 ## Built With
