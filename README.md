@@ -21,7 +21,7 @@ The one page website consits of different sections:
 
 ## Built With
 
-* Based on the *Dopetrope* template created by @ajlknHTML5 on [HTML 5 UP](https://html5up.net/)
+* Based on the *Dopetrope* template created by @ajlkn on [HTML 5 UP](https://html5up.net/)
 * The icons are linked to [Icons 8](https://icons8.com/)
 * The deliveroo icon is an image located in the images folder
 * Sass - Download [here](https://sass-lang.com/install) if it is not installed on your system yet
